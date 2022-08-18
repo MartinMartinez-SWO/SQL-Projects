@@ -1,0 +1,2 @@
+# SQL-Projects
+Codecademy projects
